@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "8483991244",
+    "firebase_url": "https://projetoteste1-11516.firebaseio.com",
+    "project_id": "projetoteste1-11516",
+    "storage_bucket": "projetoteste1-11516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8483991244:android:75cf54ef41d78a89",
+        "android_client_info": {
+          "package_name": "com.erimes.tabelaclassificao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8483991244-es792u0k366mi5hltqn98hdqqd6u2egd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erimes.tabelaclassificao",
+            "certificate_hash": "c0214f6432190388d40ade82a33c8b6ba1bad77d"
+          }
+        },
+        {
+          "client_id": "8483991244-7knpc2kar6bruf3i1pp4l9opjt69ubdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATk71KyiN77HNEutN7HHidUdqOOAWZv8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8483991244-7knpc2kar6bruf3i1pp4l9opjt69ubdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

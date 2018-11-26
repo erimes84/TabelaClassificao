@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tabela Classificação</string>
+    <string name="title_home">Principal</string>
+    <string name="title_inscritos">Inscritos</string>
+    <string name="title_classificacao">Classificação</string>
+    <string name="title_voltas_detalhadas">Voltas Detalhadas</string>
+
+
+</resources>

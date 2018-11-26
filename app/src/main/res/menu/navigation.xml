@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_inscritos"
+        android:icon="@drawable/ic_inscritos_preto_24dp"
+        android:title="@string/title_inscritos" />
+
+    <item
+        android:id="@+id/navigation_classificacao"
+        android:icon="@drawable/ic_classificacao_preto_24dp"
+        android:title="@string/title_classificacao" />
+
+    <item
+        android:id="@+id/navigation_voltas_detalhadas"
+        android:icon="@drawable/ic_voltas_detalhadas_24dp"
+        android:title="@string/title_voltas_detalhadas" />
+
+</menu>
